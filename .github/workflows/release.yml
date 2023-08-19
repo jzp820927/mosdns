@@ -2,8 +2,6 @@ name: Release mosdns
 
 on:
   push:
-    tags:
-      - 'v*'
 
 jobs:
 
